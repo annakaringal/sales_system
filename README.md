@@ -8,6 +8,6 @@ Contains two programs:
 
 To Do:
 ======
-- Error checking to ensure customer doesn't type in a 
+- Error checking to ensure user doesn't type in a string or character rather than an integer.
 
 Last updated: May 23, 2014
